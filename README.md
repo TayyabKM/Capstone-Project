@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone Project
 
-> Description the project.
+> This is a capstone project for module 1 in which a website is made for an online tech conference. The complete website is responsive and is made for 2 screen sizes i.e for mobile max width 768px and desktop 768px <. The featured speakers cards are displayed dynamically through JavaScript. Bootstrap was used throughout the entire design of the project as it made the design look better and minimised the CSS and Javascript used.
 
 
 ## Built With
 
 - Major languages
-- Frameworks
+-- Html
+--CSS
+--Javascript
+
 - Technologies used
+--GitHub
+--Visual Studio Code
+--GitBash
+--WAVE chrome extension
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **TayyabKM**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+-Github: [@TayyabKM](https://github.com/TayyabKM)
+-Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+-Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -60,7 +38,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+⭐️⭐️⭐️⭐️⭐
 
 ## Acknowledgments
 
@@ -72,4 +50,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
