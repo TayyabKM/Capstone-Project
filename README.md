@@ -8,15 +8,15 @@
 ## Built With
 
 - Major languages
--- Html
---CSS
---Javascript
+  - Html
+  - CSS
+  - Javascript
 
 - Technologies used
---GitHub
---Visual Studio Code
---GitBash
---WAVE chrome extension
+  - GitHub
+  - Visual Studio Code
+  - GitBash
+  - WAVE chrome extension
 
 
 
@@ -25,9 +25,9 @@
 
 👤 **TayyabKM**
 
--Github: [@TayyabKM](https://github.com/TayyabKM)
--Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
--Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
+- Github: [@TayyabKM](https://github.com/TayyabKM)
+- Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+- Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
 
 
 ## 🤝 Contributing
