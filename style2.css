@@ -141,6 +141,7 @@ h1 {
   height: 16px;
   border-bottom: 1px solid rgb(239, 81, 60);
   margin: 0 auto 54px;
+  display: none;
 }
 
 .card-section {
@@ -219,7 +220,7 @@ small {
 
 .sponsor-class {
   list-style: none;
-  display: flex;
+  display: none;
   justify-content: space-around;
   flex-wrap: wrap;
 }
@@ -279,6 +280,10 @@ footer {
   background-color: rgba(251, 251, 251, 0.2);
 }
 
+.text-dark {
+  display: none;
+}
+
 @media screen and (max-width: 768px) {
   .h-text h4 {
     font-size: 30px;
@@ -336,5 +341,19 @@ footer {
 
   .event-section {
     padding: 30px;
+  }
+
+  .sponsor-class {
+    display: flex;
+    background-color: #272a31;
+  }
+
+  .guide_bar {
+    display: flex;
+  }
+
+  .text-dark {
+    display: flex;
+    justify-content: center;
   }
 }
