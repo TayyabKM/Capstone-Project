@@ -5,15 +5,13 @@
   margin: 0;
   padding: 0;
   font-family: 'Lato', sans-serif;
-  
 }
- 
+
 .navbar-toggler {
   width: 20px;
   height: 20px;
   position: relative;
   transition: 0.5s ease-in-out;
-  
 }
 
 .navbar-toggler span {
@@ -32,7 +30,6 @@
   background: #ec5242;
   transform: rotate(0deg);
   transition: 0.25s ease-in-out;
-  
 }
 
 .middle-bar {
@@ -169,7 +166,6 @@ i {
   color: #fff;
   font-weight: bold;
   text-align: center;
-  
 }
 
 .card-body:hover {
@@ -237,12 +233,13 @@ footer {
   height: 125px;
   color: rgb(12, 12, 12);
 }
-.bg-dark{
- background-color: #fff!important;
+
+.bg-dark {
+  background-color: #fff !important;
 }
 
-.navbar-dark .navbar-brand{
- color: #803b34; 
+.navbar-dark .navbar-brand {
+  color: #803b34;
 }
 
 /* About section */
@@ -283,13 +280,14 @@ footer {
     font-size: 30px;
     color: #ec5242;
   }
- .card-body{
-  display: flex;
-  justify-content:space-evenly;
-  align-items: center;
- }
 
-  .container-fluid{
+  .card-body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .container-fluid {
     flex-direction: row-reverse;
     background: rgba(204, 204, 204, 0.5);
   }
